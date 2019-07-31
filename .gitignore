@@ -4,3 +4,9 @@ scwg2018_nilearn
 *checkpoint.ipynb
 .python-version
 .DS_Store
+sandbox_kendra/
+bin/nilearn_cache/*
+data/*
+resources/*
+static/*
+ds000030
